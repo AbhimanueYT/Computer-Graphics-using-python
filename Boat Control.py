@@ -6,10 +6,8 @@ from sys import*
 from playsound import playsound
 
 win=500
-
 x=y=0
 a=35
-
 r=50
 
 def rode(x,y,r,w,h):
