@@ -2,6 +2,7 @@ from OpenGL.GL import*
 from OpenGL.GLU import*
 from OpenGL.GLUT import*
 from math import*
+from sys import*
 
 win=500
 x=y=0
