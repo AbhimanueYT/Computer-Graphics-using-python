@@ -1,6 +1,6 @@
 ### Computer Graphics using python
 
-### Key Features:
+### Ball.py:
 1. **Red Ball Animation**:
    - A red ball is drawn using the `ball()` function.
    - The ball moves across the screen diagonally, simulating a bouncing or rolling effect.
