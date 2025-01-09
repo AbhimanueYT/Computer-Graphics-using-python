@@ -1,4 +1,4 @@
-#### Computer Graphics using python
+### Computer Graphics using python
 
 ### Key Features:
 1. **Red Ball Animation**:
